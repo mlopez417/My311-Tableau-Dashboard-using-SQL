@@ -1,0 +1,142 @@
+CITY_COM_IND,CITY_COMMUNITY,ZIPCODES,NEIGHBORHOOD
+1,Los Angeles,90011,"Central Alameda, Historic South-Central, South Park"
+2,Sylmar,91342,Sylmar
+3,Pacoima,91331,Pacoima
+4,Los Angeles,90003,South Los Angeles
+5,Los Angeles,90026,"Echo Park, Silver Lake"
+6,Los Angeles,90037,"Vermont Square, South Los Angeles"
+7,Reseda,91335,Reseda
+8,San Pedro,90731,San Pedro
+9,Los Angeles,90044,"Athens, Gramercy Park, Harbor Gateway, Vermont Knolls"
+10,Los Angeles,90033,Boyle Heights
+11,Los Angeles,90019,"Country Club Park, Mid-City, Miracle Mile"
+12,Los Angeles,90006,"Harvard Heights, Koreatown, Pico-Union, Westlake"
+13,Los Angeles,90027,Los Feliz
+14,North Hollywood,91605,North Hollywood
+15,Wilmington,90744,Wilmington
+16,Van Nuys,91406,Van Nuys
+17,North Hills,91343,North Hills
+18,Panorama City,91402,Panorama City
+19,Los Angeles,90018,"Jefferson Park, West Adams"
+20,Los Angeles,90029,"East Hollywood, Little Armenia, Thai Town"
+21,Los Angeles,90042,Highland Park
+22,Los Angeles,90004,"Hancock Park, Larchmont, Los Feliz, Thai Town, Windsor Square"
+23,Granada Hills,91344,Granada Hills
+24,Sun Valley,91352,Sun Valley
+25,Van Nuys,91405,Van Nuys
+26,North Hollywood,91606,North Hollywood
+27,Los Angeles,90016,"West Adams, Jefferson Park"
+28,North Hollywood,91601,North Hollywood
+29,Los Angeles,90007,"Exposition Park, University Park"
+30,Los Angeles,90034,"Palms, Beverlywood, Cheviot Hills, Mar Vista"
+31,Los Angeles,90057,Westlake
+32,Los Angeles,90065,"Cypress Park, Mount Washington"
+33,Los Angeles,90066,"Mar Vista, Palms, Venice"
+34,Los Angeles,90047,"Chesterfield Square, South Los Angeles"
+35,Chatsworth,91311,Chatsworth
+36,Los Angeles,90015,"Fashion District, South Park"
+37,Los Angeles,90023,Boyle Heights
+38,Van Nuys,91401,Van Nuys
+39,Los Angeles,90032,El Sereno
+40,Los Angeles,90043,"Hyde Park, View Park-Windsor Hills"
+41,Winnetka,91306,Winnetka
+42,Canoga Park,91304,Canoga Park
+43,Los Angeles,90031,"Lincoln Heights, Montecito Heights"
+44,Los Angeles,90028,Hollywood
+45,Venice,90291,Venice
+46,Woodland Hills,91367,Woodland Hills
+47,Los Angeles,90039,"Atwater Village, Silver Lake"
+48,Los Angeles,90002,"Southeast Los Angeles, Watts"
+49,Los Angeles,90038,"Hollywood, Melrose"
+50,Los Angeles,90062,South Los Angeles
+51,Northridge,91325,Northridge
+52,Los Angeles,90012,"Chinatown, Civic Center, Little Tokyo, Arts District"
+53,Porter Ranch,91326,Porter Ranch
+54,Los Angeles,90008,"Baldwin Hills, Leimert Park"
+55,Los Angeles,90025,"Sawtelle, West Los Angeles"
+56,Los Angeles,90036,"Beverly Grove, Fairfax, Miracle Mile"
+57,Los Angeles,90045,Westchester
+58,Los Angeles,90064,"Cheviot Hills, Rancho Park"
+59,Los Angeles,90035,"Beverlywood, Pico-Robertson"
+60,Los Angeles,90046,"Hollywood Hills, West Hollywood"
+61,Tarzana,91356,Tarzana
+62,Northridge,91324,Northridge
+63,Woodland Hills,91364,Woodland Hills
+64,Encino,91316,Encino
+65,Sherman Oaks,91423,Sherman Oaks
+66,Tujunga,91042,Tujunga
+67,Valley Village,91607,Valley Village
+68,Los Angeles,90021,"Downtown, Arts District"
+69,Studio City,91604,Studio City
+70,Los Angeles,90017,Downtown
+71,Los Angeles,90041,Eagle Rock
+72,Los Angeles,90005,Koreatown
+73,Los Angeles,90048,"Beverly Grove, Beverly Hills, Mid-City West"
+74,West Hills,91307,West Hills
+75,Canoga Park,91303,Canoga Park
+76,Los Angeles,90020,"Hancock Park, Koreatown, Mid-Wilshire"
+77,Harbor City,90710,Harbor City
+78,Van Nuys,91411,Van Nuys
+79,Torrance,90501,Torrance
+80,Los Angeles,90068,Hollywood Hills
+81,Los Angeles,90059,Willowbrook
+82,North Hollywood,91602,North Hollywood
+83,Sunland,91040,Sunland
+84,Mission Hills,91345,Mission Hills
+85,Sherman Oaks,91403,Sherman Oaks
+86,Los Angeles,90063,City Terrace
+87,Los Angeles,90049,Brentwood
+88,Los Angeles,90061,Watts
+89,San Pedro,90732,San Pedro
+90,Los Angeles,90024,Westwood
+91,Los Angeles,90001,"Florence, South Los Angeles"
+92,Gardena,90247,Gardena
+93,Pacific Palisades,90272,Pacific Palisades
+94,Encino,91436,Encino
+95,San Fernando,91340,San Fernando
+96,Marina Del Rey,90292,Marina Del Rey
+97,Playa Del Rey,90293,Playa Del Rey
+98,Los Angeles,90013,Arts District
+99,Los Angeles,90014,Fashion District
+100,Culver City,90230,Culver City
+101,Gardena,90248,Gardena
+102,Vernon,90058,Vernon
+103,Los Angeles,90010,"Koreatown, Mid-Wilshire"
+104,Los Angeles,90077,"Bel Air, Beverly Glen"
+105,Los Angeles,90069,West Hollywood
+106,Beverly Hills,90210,Beverly Hills
+107,Burbank,91504,Burbank
+108,Playa Vista,90094,Playa Vista
+109,Culver City,90232,Culver City
+110,Lomita,90717,Lomita
+111,Los Angeles,90071,Downtown
+112,Santa Monica,90402,Santa Monica
+113,Ladera Heights,90056,Ladera Heights
+114,Burbank,91505,Burbank
+115,Torrance,90502,Torrance
+116,La Crescenta,91214,La Crescenta
+117,Los Angeles,90067,Century City
+118,Northridge,91330,Northridge
+119,El Segundo,90245,El Segundo
+120,Long Beach,90810,Long Beach
+121,Los Angeles,90089,University of Southern California
+122,Beverly Hills,90211,Beverly Hills
+123,Santa Monica,90404,Santa Monica
+124,Beverly Hills,90212,Beverly Hills
+125,Inglewood,90302,Inglewood
+126,Los Angeles,90073,Westchester
+127,Inglewood,90305,Inglewood
+128,Alhambra,91803,Alhambra
+129,Inglewood,90304,Inglewood
+130,Santa Monica,90405,Santa Monica
+131,Pasadena,91105,Pasadena
+132,Rancho Palos Verdes,90275,Rancho Palos Verdes
+133,Topanga,90290,Topanga
+134,Universal City,91608,Universal City
+135,Torrance,90504,Torrance
+136,Carson,90745,Carson
+137,South Gate,90280,South Gate
+138,Santa Monica,90403,Santa Monica
+139,Glendale,91205,Glendale
+140,Calabasas,91302,Calabasas
+141,Burbank,91506,Burbank
