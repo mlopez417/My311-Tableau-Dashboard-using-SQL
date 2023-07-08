@@ -3,6 +3,12 @@
 ### Purpose
 - The project focused on identifying the most common types of service requests, analyzing usage patterns across different areas, examining trends over time, and investigating anonymous request preferences.
 
+### Outcome
+- Dashboard presents the top services used with 311 over 2022 (Bulky Items, and Graffiti Removal respectively). Most cases were resolved within 5.49 days and across all of 2022 the county received 1.3 Million service requests.
+- Based on the data, service usage will vary by neighborhood, but the majority of people/agencies that report service requests do not have a preference for anonymity.
+- Most requests still come through by phone (54.4%), but with mobile app usage being the second most used communication, a claim can be made that prioritizing technological access via an app or the web might help with volume flow.
+- By viewing which neighborhoods/zipcodes use 311 most, strategic planning can be done to allocate the proper set of resources in those areas and at distinct times of year. 
+
 ![](https://i.postimg.cc/VLjMMM2c/dash2.png)
 - *Tableau link: [Here](https://public.tableau.com/app/profile/mariela.lopez/viz/my311_16806664034940/Dashboard1)*
 
