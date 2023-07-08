@@ -1,6 +1,6 @@
 # My311 City Services Tableau Dashboard using SQL
 
-### Overview
+### Purpose
 - The project focused on identifying the most common types of service requests, analyzing usage patterns across different areas, examining trends over time, and investigating anonymous request preferences.
 
 ![](https://i.postimg.cc/VLjMMM2c/dash2.png)
