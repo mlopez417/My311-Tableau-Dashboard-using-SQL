@@ -1,22 +1,26 @@
 # My311 City Services Tableau Dashboard using SQL
 
-### Purpose
+### Goal
 - The project focused on identifying the most common types of service requests, analyzing usage patterns across different areas, examining trends over time, and investigating anonymous request preferences.
 
 ### Outcome
-- Dashboard presents the top services used with 311 over 2022 (Bulky Items, and Graffiti Removal respectively). Most cases were resolved within 5.49 days and across all of 2022 the county received 1.3 Million service requests.
-- Based on the data, service usage will vary by neighborhood, but the majority of people/agencies that report service requests do not have a preference for anonymity.
-- Most requests still come through by phone (54.4%), but with mobile app usage being the second most used communication, a claim can be made that prioritizing technological access via an app or the web might help with volume flow.
-- By viewing which neighborhoods/zipcodes use 311 most, strategic planning can be done to allocate the proper set of resources in those areas and at distinct times of year. 
+A comprehensive and interactive dashboard which captures 311 service usage across the Los Angeles county for calendar year 2022. This type of data can serve to plan, organize, and render better allocation of resources for heavily utilized neighborhoods in the county. Among some of the summarized data collected include these key findings: 
+
+    - Across all of 2022 the county received over 1.3 Million service requests, with most cases being resolved within 5.49 days. 
+    - The most used services for the county were Bulky Items, and Graffiti Removal.
+    - Service usage will vary by neighborhood, but the majority of people/agencies that report service requests do not have a 
+    preference for anonymity.
+    - Most requests still come through by phone (54.4%), with mobile app usage being the second most used communication method.
+    - The neighborhoods with most volume of 311 usage are also within the most underprivileged neighborhoods in the city. 
 
 ![](https://i.postimg.cc/VLjMMM2c/dash2.png)
 - *Tableau link: [Here](https://public.tableau.com/app/profile/mariela.lopez/viz/my311_16806664034940/Dashboard1)*
 
-### Objective
+---
+
+### Purpose
 - The project aimed to showcase data analysis skills using SQL and address questions in a real-world scenario. 
 - This data would then be consolidated and presented in an interactive Tableau Dashboard for a respective operations team or city agency that would need consolidated data on hand. 
-
----
 
 ### Data Understanding
 - The project utilized two main data sources: the latest Census data of Los Angeles County and My311 services data for FY22. 
@@ -58,7 +62,7 @@
     3. Deciding how to prepare for peak traffic volumes at different times of the year. 
     4. Deciding what public tools for 311 service can be prioritized based on usage/demand. 
     
-- Some next steps I would consider: 
+- **Some next steps**: 
     - Conduct further analysis on specific service request types, exploring correlations with demographic data, temporal patterns, or predictive modeling.
     - Engage with stakeholders by sharing the Tableau dashboard and project findings, seeking feedback to refine the analysis and improve understanding.
     - Regularly update the dataset to track service pattern evolution over time and identify emerging trends or shifts in demand.
